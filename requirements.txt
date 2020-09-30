@@ -1,0 +1,5 @@
+selenium
+fuzzywuzzy
+natsort
+bs4
+openpyxl
